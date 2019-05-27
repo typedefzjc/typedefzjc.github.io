@@ -1060,7 +1060,7 @@ pre .javascript .function {
   box-sizing: border-box;
   position: fixed;
   bottom: -100px;
-  right: 30px;
+  left: 30px;
   z-index: 1050;
   padding: 0 6px;
   width: 24px;
@@ -1765,7 +1765,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #94b4bd;
+  background: #ff7378;
 }
 .feed-link,
 .chat {
@@ -2473,4 +2473,42 @@ embed {
 }
 .links-of-blogroll-inline .links-of-blogroll-item {
   display: inline-block;
+}
+body {
+  background: url("http://www.netbian.com/desk/21905-1920x1080.htm");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+}
+.header {
+  background: url("http://www.netbian.com/desk/21905-1920x1080.htm") none repeat scroll !important;
+}
+.footer {
+  background: rgba(255,255,255,0.5) none repeat scroll !important;
+}
+#sidebar {
+  background: url("http://www.netbian.com/desk/21905-1920x1080.htm");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+#sidebar p,
+#sidebar span,
+#sidebar a {
+  color: #fff;
+}
+.sidebar {
+  left: 0;
+}
+.sidebar-toggle {
+  left: 30px;
+}
+.post {
+  margin-top: 60px;
+  margin-bottom: 60px;
+  padding: 25px;
+  background: rgba(255,255,255,0.9) none repeat scroll !important;
+  -webkit-box-shadow: 0 0 5px rgba(202,203,203,0.5);
+  -moz-box-shadow: 0 0 5px rgba(202,203,204,0.5);
 }
