@@ -1765,7 +1765,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #e7160f;
+  background: #abffb8;
 }
 .feed-link,
 .chat {
@@ -2475,7 +2475,7 @@ embed {
   display: inline-block;
 }
 body {
-  background: url("http://www.netbian.com/desk/21905-1920x1080.htm");
+  background: url("../../images/beijing.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
