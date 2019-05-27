@@ -1204,7 +1204,7 @@ pre .javascript .function {
   transition-duration: 0.2s;
   transition-timing-function: ease-in-out;
   transition-delay: 0s;
-  color: #dcdcdc !important;
+  color: #000 !important;
 }
 .menu .menu-item a:hover,
 .menu .menu-item span.exturl:hover {
@@ -1765,7 +1765,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ff5560;
+  background: #ffff49;
 }
 .feed-link,
 .chat {
