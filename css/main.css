@@ -1205,7 +1205,7 @@ pre .javascript .function {
   transition-duration: 0.2s;
   transition-timing-function: ease-in-out;
   transition-delay: 0s;
-  color: #fff !important;
+  color: #dcdcdc !important;
 }
 .menu .menu-item a:hover,
 .menu .menu-item span.exturl:hover {
@@ -1766,7 +1766,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #3efefc;
+  background: #a89aff;
 }
 .feed-link,
 .chat {
@@ -2476,7 +2476,7 @@ embed {
   display: inline-block;
 }
 body {
-  background: url("../../images/beijing.jpg");
+  background: url("http://www.netbian.com/desk/21905-1920x1080.htm");
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -2497,7 +2497,7 @@ body {
 #sidebar p,
 #sidebar span,
 #sidebar a {
-  color: #fff;
+  color: #dcdcdc;
 }
 .sidebar {
   left: 0;
