@@ -1765,7 +1765,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #996232;
+  background: #ffff12;
 }
 .feed-link,
 .chat {
@@ -2979,7 +2979,7 @@ body {
 #sidebar p,
 #sidebar span,
 #sidebar a {
-  color: #dcdcdc;
+  color: #000;
 }
 .sidebar {
   left: 0;
