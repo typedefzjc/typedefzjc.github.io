@@ -4,39 +4,18 @@
   
     
     <entry>
-      <title>test</title>
-      <link href="/2019/05/28/test/"/>
-      <url>/2019/05/28/test/</url>
+      <title>退役啦</title>
+      <link href="/2019/05/28/%E9%80%80%E5%BD%B9%E5%95%A6/"/>
+      <url>/2019/05/28/%E9%80%80%E5%BD%B9%E5%95%A6/</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<h3 id="一"><a href="#一" class="headerlink" title="一"></a>一</h3><font size="2">去年12月打完西安EC就准备退役了，但是没拿到金牌又很不甘心，假期保持着每天一到两题的刷题量，寒假结束的前几天，突然就对acm没有了太大的热情了，想了很久，也决定退役了，好好准备考研，把本科落下的很多功课都捡起来吧。<br>直到五月份，队友说他们一时间找不到新的队友，于是决定复健，打完最后一场省赛，就正式退役。<br>2019.05.19 14：00，比赛结束的那一刻，终于退役了，纵使有太多不甘，但我也不想做一个优柔寡断的人了。<br></font><h3 id="二"><a href="#二" class="headerlink" title="二"></a>二</h3><font size="2">初入acm，刷着简单的逻辑题，格式题，在经历过院赛和校赛后，和两个舍友正式组队，选拔进入省赛。后进入acm实验室，开始区域赛。<br></font><h4 id="厦门"><a href="#厦门" class="headerlink" title="厦门"></a>厦门</h4><font size="2">第一次省赛。充满紧张与刺激感。铜牌对于当时的自己也是很满足。也得出一个结论：模板大法好啊！<br></font><h4 id="新疆"><a href="#新疆" class="headerlink" title="新疆"></a>新疆</h4><font size="2">第一次区域赛。由于赛前和队友打前几个赛区的训练赛都有不错的成绩导致自信心爆棚，也可能是缺少对区域赛的敬畏之心，所以觉得拿个奖牌应该问题不大。<br>最打击人的，应该就是在比赛中信心被逐步瓦解吧。 <code>乘法逆元</code> 和 <code>负数取模</code>，因为没有好好打基础，wa到怀疑人生，后来上了java大数才过。<br>尽管已经解出了三题，但是高罚时已经让我们无缘奖牌了。<br>从新疆回来后大病一场，那时候开始动摇了在acm走下去的决心。<br>思前想后，还是决定再坚持一年。<br></font><h4 id="泉州"><a href="#泉州" class="headerlink" title="泉州"></a>泉州</h4><font size="2">这期间发生了很不愉快的事情，不是特别想回忆，等过亿段时间再写吧。<br>队伍重组也是这次比赛之后的事了。<br></font><h4 id="南京、青岛、西安"><a href="#南京、青岛、西安" class="headerlink" title="南京、青岛、西安"></a>南京、青岛、西安</h4><font size="2">经过暑假20多场的多校和各个赛区的网络赛以及每周1-2场的训练赛，新队伍的磨合程度也很高了。<br>南京站，应该是我们最接近区域金的一场了，应该也是遗憾最大的一场比赛了。但也拿到了区域赛的第一块银牌。<br>青岛站，第一次在赛场上读错题，把队友坑死，实力背锅，最后还是苟到了银牌。也明白了原来好好学算法分析是有用的！<br>西安EC，计算几何果然需要很细心的人来推公式。代码手写错公式，我帮他debug的时候也发现，大概卡了两个多小时，最后终于在封榜前被另一个队友发现。最后一个小时，队友一眼就出了C题的算法，不过由于所剩时间不多，也遗憾打银了。<br>银牌收割者成就get!<br>我的区域赛也就这样结束了。<br></font><h4 id="厦门-1"><a href="#厦门-1" class="headerlink" title="厦门"></a>厦门</h4><font size="2">退役赛，终于退役了，不过我好像又读错题了emmm…也算拿到省金了。<br></font><h3 id="三"><a href="#三" class="headerlink" title="三"></a>三</h3><font size="2">高中就参加过很多竞赛，不过除了生物竞赛拿过省级奖，其他好像并不理想。acm应该算是我对竞赛最后的执念了吧。<br>在这两年多的时间里，最大的收获不是学了多少算法，提高了多少码力，而是学会了如何和队友相处，并结交了很多校内外的朋友。<br>希望我那仍在坚持的两个队友能了结去年的遗憾，加油啊！！！<br><br>最后送给还在坚持的acmer一句我最喜欢的话(盗用朱主任，嘿嘿嘿)<br><strong>Don’t aim for success, if you really want it.<br>Just stick to what you love and believe in, and it will come naturally.</strong><br></font>]]></content>
       
       
       <categories>
           
-          <category> 学习笔记 </category>
+          <category> acm </category>
           
       </categories>
-      
-      
-        <tags>
-            
-            <tag> acm </tag>
-            
-            <tag> 数据结构 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Hello World</title>
-      <link href="/2019/05/26/hello-world/"/>
-      <url>/2019/05/26/hello-world/</url>
-      
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">#include&lt;bits/stdc++.h&gt;</span></span><br><span class="line">using namespace std;</span><br><span class="line"></span><br><span class="line">int <span class="function"><span class="title">main</span></span>()&#123;</span><br><span class="line"><span class="built_in">return</span> 0*puts(<span class="string">"hello world"</span>);</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>]]></content>
-      
       
       
     </entry>
