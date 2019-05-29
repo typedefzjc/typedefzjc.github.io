@@ -1765,7 +1765,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ffff12;
+  background: #9a6fff;
 }
 .feed-link,
 .chat {
@@ -2969,6 +2969,9 @@ body {
 }
 .footer {
   background: rgba(255,255,255,0.5) none repeat scroll !important;
+}
+.footer-inner {
+  color: #000;
 }
 #sidebar {
   background: url("http://www.netbian.com/desk/21905-1920x1080.htm");
